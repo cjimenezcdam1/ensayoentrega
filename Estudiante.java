@@ -2,7 +2,7 @@
 /**
  *  
  * 
- * @author  Christian
+ * @author  
  * @version  
  */
 public class Estudiante
